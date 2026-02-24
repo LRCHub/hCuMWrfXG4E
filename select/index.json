@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Uptown Girl",
+  "base_artist": "Billy Joel",
+  "createdAt": "2026-02-24T14:07:59.459912Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Uptown Girl",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/01_Uptown_Girl_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Uptown Girl",
+      "artist": "The Cooltrane Quartet",
+      "has_synced": false,
+      "path": "select/02_Uptown_Girl_The_Cooltrane_Quartet.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Uptown Girl",
+      "artist": "Cooltrane Quartet, The",
+      "has_synced": false,
+      "path": "select/03_Uptown_Girl_Cooltrane_Quartet,_The.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Uptown Girl",
+      "artist": "k-os",
+      "has_synced": false,
+      "path": "select/04_Uptown_Girl_k-os.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Uptown Girl",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/05_Uptown_Girl_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Uptown Girl",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/06_Uptown_Girl_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Uptown Girl",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/07_Uptown_Girl_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Uptown Girl",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/08_Uptown_Girl_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Uptown Girl",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/09_Uptown_Girl_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Uptown Girl",
+      "artist": "The Beths",
+      "has_synced": true,
+      "path": "select/10_Uptown_Girl_The_Beths.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Uptown Girl",
+      "artist": "Westlife",
+      "has_synced": true,
+      "path": "select/11_Uptown_Girl_Westlife.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Uptown Girl",
+      "artist": "Billy Joel",
+      "has_synced": false,
+      "path": "select/pl_01_Uptown_Girl_Billy_Joel.txt"
+    }
+  ]
+}
